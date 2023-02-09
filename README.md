@@ -1,1 +1,1 @@
-# patika.dev-html-2.odev
+# Patika.dev HTML 2. Ödev
